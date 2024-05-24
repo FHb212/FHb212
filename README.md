@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FHb212
-- 👀 I’m interested in EE(PCB,STM32,ALGC...)
+- 👀 I’m interested in EE(PCB,STM32,AIGC...)
 - 🌱 I’m currently learning EE in XDU.
 - 📫 How to reach me :33cc77dd66@gmail.com
 - 😄 Pronouns: ...
